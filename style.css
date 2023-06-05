@@ -1,0 +1,16 @@
+.box {
+  width: 900px;
+  height: 600px;
+  margin: 50px auto;
+  border: ;
+  background-color: hsl(137, 46%, 33%);
+  background-image: 
+  url(images/green-png-44873.png),
+  url(images/lamp-png-34914.png),
+  url(images/cake.png),
+  url(images/3F3F.webp),
+  url(images/pole-zelen-trava-dom-derevya.jpg);
+  background-size: 240px, 40px, 40px, 40px, 500px;
+  background-repeat: repeat-x, repeat-x, repeat-y, repeat-y, no-repeat;
+  background-position: bottom, top, right, left, center;
+}
